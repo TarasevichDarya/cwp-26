@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "moment-range": "^3.1.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^4.43.0",
+    "twix": "^1.2.1",
+    "yamljs": "^0.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "tarasevichdarya",
+  "version": "2.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
